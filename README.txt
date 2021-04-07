@@ -1,0 +1,1 @@
+Description: Web application that uses real time communication (through peerJS and webRTC) to allow two users to connect via the internet and control eachother's web audio player through touch (using Hammer.js).
